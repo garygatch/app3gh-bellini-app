@@ -1,8 +1,9 @@
 {
   "type": "app-service",
-  "name": "ser1",
+  "name": "ser2",
   "description": "",
   "singleton": true,
   "variables": [],
-  "visible": []
+  "visible": [],
+  "parentDirectoryId": "nwMbRrWR2uuI1PdyKO8hc"
 }

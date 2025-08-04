@@ -55,7 +55,8 @@
   "externalStylesheets": [],
   "localScripts": [
     {
-      "path": "a.js"
+      "path": "dir/a.js",
+      "parentDirectoryId": "tRJ23QxCE7ciI91pJrpRZ"
     },
     {
       "path": "b.js"
@@ -63,7 +64,8 @@
   ],
   "localStylesheets": [
     {
-      "path": "a.css"
+      "path": "dir/a.css",
+      "parentDirectoryId": "Baea7_mHkMehrcopB2WmZ"
     },
     {
       "path": "b.css"
