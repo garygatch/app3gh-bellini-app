@@ -64,11 +64,11 @@
   ],
   "localStylesheets": [
     {
-      "path": "b.css"
-    },
-    {
       "path": "dir/a.css",
       "parentDirectoryId": "Baea7_mHkMehrcopB2WmZ"
+    },
+    {
+      "path": "b.css"
     }
   ]
 }
