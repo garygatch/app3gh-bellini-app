@@ -1,5 +1,5 @@
 {
-  "name": "app3gh",
+  "name": "app3gh_1",
   "type": "app",
   "defaultPage": "home",
   "config": {
@@ -55,20 +55,20 @@
   "externalStylesheets": [],
   "localScripts": [
     {
-      "path": "dir/a.js",
-      "parentDirectoryId": "tRJ23QxCE7ciI91pJrpRZ"
+      "path": "b.js"
     },
     {
-      "path": "b.js"
+      "path": "dir/a.js",
+      "parentDirectoryId": "tRJ23QxCE7ciI91pJrpRZ"
     }
   ],
   "localStylesheets": [
     {
-      "path": "dir/a.css",
-      "parentDirectoryId": "Baea7_mHkMehrcopB2WmZ"
+      "path": "b.css"
     },
     {
-      "path": "b.css"
+      "path": "dir/a.css",
+      "parentDirectoryId": "Baea7_mHkMehrcopB2WmZ"
     }
   ]
 }
