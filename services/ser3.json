@@ -1,0 +1,8 @@
+{
+  "type": "app-service",
+  "name": "ser3",
+  "description": "",
+  "singleton": true,
+  "variables": [],
+  "visible": []
+}
