@@ -20,11 +20,36 @@
   },
   "directories": {
     "assets": [],
-    "components": [],
-    "pages": [],
-    "scripts": [],
-    "services": [],
-    "stylesheets": []
+    "components": [
+      {
+        "id": "OHtL6yNR2be8CiP8-S_eG",
+        "name": "dir"
+      }
+    ],
+    "pages": [
+      {
+        "id": "khcvA5WE22DjZEebjCLkP",
+        "name": "dir"
+      }
+    ],
+    "scripts": [
+      {
+        "id": "tRJ23QxCE7ciI91pJrpRZ",
+        "name": "dir"
+      }
+    ],
+    "services": [
+      {
+        "id": "nwMbRrWR2uuI1PdyKO8hc",
+        "name": "dir"
+      }
+    ],
+    "stylesheets": [
+      {
+        "id": "Baea7_mHkMehrcopB2WmZ",
+        "name": "dir"
+      }
+    ]
   },
   "externalScripts": [],
   "externalStylesheets": [],
